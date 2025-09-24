@@ -1,0 +1,34 @@
+.footer{
+    width:100%;
+    background-color: var(--black);
+    height:100px;
+}
+.footer-text p{
+    font-size:14px;
+    color:var(--white);
+}
+.footer-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:20px;
+    gap:20px;
+}
+.footer-text__link{
+    display: flex;
+    gap:5px;
+}
+.footer-text a{
+     font-size:14px;
+    color:var(--text);
+
+}
+.footer-text a:not(:nth-child(3))::after{
+    content:' | ';
+    color:var(--white);
+}
+.footer-text a:hover{
+    text-decoration: underline;
+    color:var(--white);
+}

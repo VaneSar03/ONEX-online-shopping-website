@@ -1,0 +1,13 @@
+:root{
+    /* fonts */
+    --Helvetica-Roman:'Helvetica-Neune-Roman', Helvetica, Arial, sans-serif;
+    /* colors */
+    --black: #000000;
+    --black-alternate:#222222;
+    --white:#FFFFFF;
+    --light-gray:#F4F4F4;
+    --accent:#5dba2f;
+    --accent2:#f1c40f;
+    --box-shadow:#f2f4fb;
+    --text:#555;
+}

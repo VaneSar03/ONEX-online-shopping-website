@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="256"
+   height="144"
+   viewBox="0 0 256 144"
+   sodipodi:docname="Telcell-Wallet_Logo_Main_RGB.ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <path
+         d="M 0,108 H 192 V 0 H 0 Z"
+         id="path14" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="Telcell-Wallet_Logo_Main_RGB"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,144)">
+    <g
+       id="g10">
+      <g
+         id="g12"
+         clip-path="url(#clipPath16)">
+        <g
+           id="g18"
+           transform="translate(153.55,79.42)">
+          <path
+             d="M 0,0 H -5.99 V -22.68 H 9.48 v 5.79 H 0.01 v 16.88 z m -8.28,-22.68 v 5.79 h -9.47 v 16.88 h -5.99 V -22.69 H -8.27 Z M -42.79,0 v -22.68 h 16.21 v 5.79 H -36.8 v 2.66 h 7.82 v 5.79 h -7.82 v 2.66 h 10.22 v 5.79 h -16.21 z m -12.69,-5.77 c 2.32,0 3.92,-1.39 4.51,-3 h 6.38 c -0.68,5.06 -5.23,9.13 -10.98,9.13 -6.8,0 -11.53,-4.9 -11.53,-11.7 0,-6.8 4.89,-11.7 11.53,-11.7 5.61,0 10.11,3.57 11.05,9.12 h -6.47 c -0.58,-1.77 -2.36,-2.99 -4.49,-2.99 -3.17,0 -5.33,2.3 -5.33,5.57 0,3.27 2.08,5.57 5.33,5.57 m -11.74,-16.91 v 5.79 h -9.47 v 16.88 h -5.99 v -22.68 h 15.47 z m -18.31,0 v 5.79 h -10.22 v 2.66 h 7.82 v 5.79 h -7.82 v 2.66 h 10.22 v 5.79 h -16.21 v -22.68 h 16.21 z m -24.13,16.88 h 5.99 v 5.79 h -5.99 z m -1.87,5.79 v -22.68 h -5.99 V -5.8 h -7.06 v 5.79 h 13.06 z"
+             style="fill:#ff5b2e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path20" />
+        </g>
+        <g
+           id="g22"
+           transform="translate(56.99,50.9)">
+          <path
+             d="M 0,0 -3.88,-13.41 -8.03,0 h -5.64 L -17.6,-12.83 -21.4,0 h -6.63 l 7.07,-22.68 H -15 l 4.01,12.55 4.08,-12.55 h 6.42 L 6.45,0 h -6.46 z m 85.96,0 v -5.79 h 7.06 v -16.89 h 5.99 v 16.89 h 7.03 V 0 Z M 67.29,-22.68 h 16.37 v 5.79 H 73.28 v 2.66 h 7.98 v 5.79 h -7.98 v 2.66 H 83.66 V 0.01 H 67.29 v -22.68 z m -47.85,9.43 -2.63,6.84 -2.58,-6.84 z M 20.49,0 29.31,-22.68 h -6.24 l -1.47,3.82 h -9.48 l -1.44,-3.82 H 4.69 L 13.34,0 Z M 55.36,0 H 49.37 V -22.68 H 65 v 5.79 H 55.36 Z M 37.44,-16.89 h 9.64 v -5.79 H 31.45 V 0 h 5.99 z"
+             style="fill:#73e1ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path24" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

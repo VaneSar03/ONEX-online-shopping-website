@@ -1,0 +1,92 @@
+body {
+    font-family: var(--Helvetica-Roman);
+}
+
+[class*=__container] {
+    max-width: clamp(750px, 60.9375vw, 1170px);
+    margin-inline: auto;
+    display: flex;
+        
+}
+
+[class*=--accent] {
+    color: var(--accent);
+}
+[class*=--bg-accent]{
+    background-color: var(--accent);
+}
+
+
+.lang-link {
+    font-size: 0.6875em;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.lang-link img {
+    width: 18px;
+    height: 18px
+}
+
+.icon {
+    display: flex;
+    width: 12px;
+    height: 12px;
+}
+
+.icon {
+    display: flex;
+    width: 12px;
+    height: 12px;
+}
+
+.icon {
+    display: flex;
+    width: 12px;
+    height: 12px;
+}
+
+.logo {
+    width: 130px;
+    height: 50px;
+}
+.logo img{
+    width:100%;
+    height:100%;
+}
+
+.calculator-image {
+    width: 25px;
+    height: 25px;
+}
+
+.search-image {
+    width: 20px;
+    height: 24px;
+}
+
+[class^=button]{
+    display: flex;
+    align-items: center;
+    font-size: 0.75em;
+    padding:0.5em;
+    text-transform: uppercase;
+    border-radius: 6px;
+    gap:5px;
+}
+[class^=button] .icon path{
+    fill:var(--white); 
+}
+[class^=button]:hover{
+    opacity: 0.8;
+}
+
+
+
+@media(width <=750px) {
+    [class*=__container] {
+        max-width: 100%;
+        margin-inline: 15px;
+    }
+}
